@@ -133,6 +133,16 @@ enrichment/
 - Metascape: `metascape_result.xlsx`, GO/MCODE tabloları, ısı haritaları
 - `yorum/`: sonuçların biyolojik yorumu, literatür uyumu, aday hedefler ve DisGeNET hastalık değerlendirmesi
 
+**Örnek sonuçlar (Metascape, en zengin terimler):**
+
+*CJD:* stres ile aktive olan MAPK kaskadı ve RAF-bağımsız MAPK1/3 aktivasyonu öne çıkıyor.
+
+![CJD Metascape](enrichment/cjd-metascape/HeatmapSelectedGO.png)
+
+*FFI:* beyin gelişimi, sinaps organizasyonu, makrootofaji ve protein ubikuitinasyonu öne çıkıyor.
+
+![FFI Metascape](enrichment/ffi-metascape/HeatmapSelectedGO.png)
+
 ### miRNA Analizi (`miRNA/`)
 
 | Dosya | Açıklama |
