@@ -141,11 +141,6 @@ enrichment/
 | `benim_miRNA_sonuclarim.png` | Bu çalışmadaki miRNA sonuçları |
 | `miRNA_toplu_karsilastirma.png` | Gruplar arası toplu miRNA karşılaştırması |
 
-### Özet Tablolar (`ozet/`)
-
-- `analiz_sonuclari.xlsx`: farklı eşiklerde (p-value, adj. p-value, Bonferroni) gen sayılarının karşılaştırması
-- `gen_dogrulama.xlsx`: gen doğrulama listesi
-
 ## Dosya Yapısı
 
 ```
@@ -156,6 +151,5 @@ Prion_Disease/
 ├── string/                 # STRING ağları
 ├── cytoscape/              # Hub genler
 ├── enrichment/             # g:Profiler ve Metascape sonuçları + yorumlar
-├── miRNA/                  # miRNA sonuçları
-└── ozet/                   # Özet tablolar
+└── miRNA/                  # miRNA sonuçları
 ```
