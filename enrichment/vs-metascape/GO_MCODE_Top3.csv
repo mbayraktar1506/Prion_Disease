@@ -1,0 +1,14 @@
+Network,Annotation
+MyList,GO:0034330|cell junction organization|-11.3;GO:0050808|synapse organization|-10.1;mmu04519|Cadherin signaling - Mus musculus (house mouse)|-10.1
+MyList_MCODE_ALL,R-MMU-983189|Kinesins|-15.3;R-MMU-2132295|MHC class II antigen presentation|-13.9;R-MMU-8856688|Golgi-to-ER retrograde transport|-13.1
+MyList_SUB1_MCODE_1,GO:0030100|regulation of endocytosis|-5.9;GO:0045807|positive regulation of endocytosis|-5.3;R-MMU-9013026|RHOB GTPase cycle|-5.1
+MyList_SUB1_MCODE_2,R-MMU-2132295|MHC class II antigen presentation|-17.9;R-MMU-8856688|Golgi-to-ER retrograde transport|-17.3;R-MMU-983189|Kinesins|-17.0
+MyList_SUB1_MCODE_3,R-MMU-8951664|Neddylation|-4.6;R-MMU-983168|Antigen processing: Ubiquitination & Proteasome degradation|-4.2;R-MMU-983169|Class I MHC mediated antigen processing & presentation|-4.0
+MyList_SUB1_MCODE_4,GO:0035567|non-canonical Wnt signaling pathway|-9.9;GO:0016055|Wnt signaling pathway|-9.8;R-MMU-4086398|Ca2+ pathway|-9.8
+MyList_SUB1_MCODE_5,R-MMU-190840|Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane|-8.2;R-MMU-190872|Transport of connexons to the plasma membrane|-8.1;R-MMU-9668328|Sealing of the nuclear envelope (NE) by ESCRT-III|-7.5
+MyList_SUB1_MCODE_6,R-MMU-72163|mRNA Splicing - Major Pathway|-5.6;R-MMU-72172|mRNA Splicing|-5.6;R-MMU-72203|Processing of Capped Intron-Containing Pre-mRNA|-5.1
+MyList_SUB1_MCODE_9,WP116|Hedgehog signaling pathway|-9.1;mmu04340|Hedgehog signaling pathway - Mus musculus (house mouse)|-7.8;mmu05217|Basal cell carcinoma - Mus musculus (house mouse)|-7.7
+MyList_SUB1_MCODE_10,GO:0035148|tube formation|-6.3;GO:0048812|neuron projection morphogenesis|-4.8;GO:0120039|plasma membrane bounded cell projection morphogenesis|-4.8
+MyList_SUB1_MCODE_11,GO:0072594|establishment of protein localization to organelle|-5.5;GO:0006886|intracellular protein transport|-4.8;GO:0033365|protein localization to organelle|-4.4
+MyList_SUB1_MCODE_12,GO:0070588|calcium ion transmembrane transport|-6.1;GO:0006816|calcium ion transport|-5.7;GO:0030001|metal ion transport|-4.6
+MyList_SUB1_MCODE_13,GO:0007254|JNK cascade|-8.0;GO:0046328|regulation of JNK cascade|-6.4;GO:0000165|MAPK cascade|-6.3

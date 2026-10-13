@@ -1,0 +1,15 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-9.940155802566002,GO:0032502,developmental process,M1,1,GO:0007420 brain development
+1,-9.048432689666152,GO:0050789,regulation of biological process,M1,1,GO:0050807 regulation of synapse organization
+1,-8.728839235923333,GO:0065007,biological regulation,M1,1,GO:0050803 regulation of synapse structure or activity
+1,-8.036950663040011,GO:0009987,cellular process,M1,1,GO:0016567 protein ubiquitination
+1,-6.972109274724098,GO:0050896,response to stimulus,M1,1,GO:0051056 regulation of small GTPase mediated signal transduction
+1,-6.082859127199638,GO:0048519,negative regulation of biological process,M1,1,GO:0016242 negative regulation of macroautophagy
+1,-5.639675656385609,GO:0048518,positive regulation of biological process,M1,1,GO:1901890 positive regulation of cell junction assembly
+1,-5.601285058089027,GO:0051179,localization,M1,1,GO:0030705 cytoskeleton-dependent intracellular transport
+1,-5.152385346287011,GO:0032501,multicellular organismal process,M1,1,GO:0050890 cognition
+1,-3.109712204447014,GO:0051703,biological process involved in intraspecies interaction between organisms,M1,1,GO:0035176 social behavior
+1,-2.884889055474293,GO:0048511,rhythmic process,M1,1,GO:0009649 entrainment of circadian clock
+1,-2.737814320861799,GO:0040007,growth,M1,1,GO:0060677 ureteric bud elongation
+1,-2.714090005629437,GO:0016032,viral process,M1,1,GO:0019068 virion assembly
+1,-2.1604550913580436,GO:0002376,immune system process,M1,1,GO:0002842 positive regulation of T cell mediated immune response to tumor cell

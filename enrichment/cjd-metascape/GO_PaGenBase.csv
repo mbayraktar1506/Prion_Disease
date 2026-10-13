@@ -1,0 +1,3 @@
+_MEMBER_MyList,_LogP_MyList,GO,_PATTERN_,_RANK_,GiniIndex,Category,CategoryID,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),EvidenceCutoff
+1,-3.7,PGB:00269,M1,1,0,PaGenBase,36,Cell-specific: retinal pigment epithelium,,-3.7,4.4,4.9,22259,386,118,9,7.6,2.4,12960|18631|57890|74008|74199|110893|170571|209195|268780,Crybb1|Pex11a|Il17re|Arsg|Vit|Slc8a3|Cntnap4|Clic6|Egflam,-0.69,0
+1,-3.1,PGB:00256,M1,1,0,PaGenBase,36,Cell-specific: min6,,-3.1,4.7,4.6,22259,279,118,7,5.9,2.2,11515|14266|19276|19417|20564|210108|320051,Adcy9|Aff2|Ptprn2|Rasgrf1|Slit3|D130043K22Rik|Exph5,-0.47,0

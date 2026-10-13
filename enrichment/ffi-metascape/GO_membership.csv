@@ -1,0 +1,431 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.4,mmu04517,IgSF CAM signaling - Mus musculus (house mouse),M1,1,0
+1,-6.9,R-MMU-5653656,Vesicle-mediated transport,M1,1,0
+1,-2.5,GO:0071900,regulation of protein serine/threonine kinase activity,M1,1,0
+1,-6.5,GO:0010975,regulation of neuron projection development,M1,1,0
+1,-2.5,GO:0048172,regulation of short-term neuronal synaptic plasticity,M1,1,0
+1,-3.1,R-MMU-2132295,MHC class II antigen presentation,M1,1,0
+1,-6.5,GO:0030036,actin cytoskeleton organization,M1,1,0
+1,-7.5,R-MMU-9612973,Autophagy,M1,1,0
+1,-5.7,R-MMU-9675108,Nervous system development,M1,1,0
+1,-2.6,R-MMU-190828,Gap junction trafficking,M1,1,0
+1,-3.8,R-MMU-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III,M1,1,0
+1,-2.2,GO:0000425,pexophagy,M1,1,0
+1,-3.1,GO:0051703,biological process involved in intraspecies interaction between organisms,M1,1,0
+1,-4,GO:0010970,transport along microtubule,M1,1,0
+1,-2.2,GO:0000915,actomyosin contractile ring assembly,M1,1,0
+1,-2.2,GO:2000134,negative regulation of G1/S transition of mitotic cell cycle,M1,1,0
+1,-5.4,GO:0030029,actin filament-based process,M1,1,0
+1,-3.6,GO:0050773,regulation of dendrite development,M1,1,0
+1,-3.5,GO:0008283,cell population proliferation,M1,1,0
+1,-2.9,R-MMU-913531,Interferon Signaling,M1,1,0
+1,-4.1,R-MMU-6811434,COPI-dependent Golgi-to-ER retrograde traffic,M1,1,0
+1,-4.7,R-MMU-1852241,Organelle biogenesis and maintenance,M1,1,0
+1,-3.4,GO:0060125,negative regulation of growth hormone secretion,M1,1,0
+1,-2.1,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2.2,GO:1990849,vacuolar localization,M1,1,0
+1,-5.2,R-MMU-190872,Transport of connexons to the plasma membrane,M1,1,0
+1,-3.8,R-MMU-8856688,Golgi-to-ER retrograde transport,M1,1,0
+1,-5.6,GO:0030705,cytoskeleton-dependent intracellular transport,M1,1,0
+1,-2.1,GO:0051336,regulation of hydrolase activity,M1,1,0
+1,-2.4,GO:0035372,protein localization to microtubule,M1,1,0
+1,-3.1,GO:0035176,social behavior,M1,1,0
+1,-2.9,R-MMU-181430,Norepinephrine Neurotransmitter Release Cycle,M1,1,0
+1,-8,GO:0016567,protein ubiquitination,M1,1,0
+1,-6.1,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-3,GO:0010564,regulation of cell cycle process,M1,1,0
+1,-3.4,GO:1903432,regulation of TORC1 signaling,M1,1,0
+1,-2.8,R-MMU-1483257,Phospholipid metabolism,M1,1,0
+1,-4.2,GO:0061001,regulation of dendritic spine morphogenesis,M1,1,0
+1,-3.6,GO:0006354,DNA-templated transcription elongation,M1,1,0
+1,-7.7,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",M1,1,0
+1,-3.6,R-MMU-380259,Loss of Nlp from mitotic centrosomes,M1,1,0
+1,-2.7,GO:0021696,cerebellar cortex morphogenesis,M1,1,0
+1,-6.7,GO:0032446,protein modification by small protein conjugation,M1,1,0
+1,-2.8,GO:0044092,negative regulation of molecular function,M1,1,0
+1,-4.1,GO:0010770,positive regulation of cell morphogenesis,M1,1,0
+1,-3.8,R-MMU-437239,Recycling pathway of L1,M1,1,0
+1,-2.4,GO:0021535,cell migration in hindbrain,M1,1,0
+1,-2.3,GO:0001843,neural tube closure,M1,1,0
+1,-2.5,GO:0043954,cellular component maintenance,M1,1,0
+1,-2.5,GO:0018105,peptidyl-serine phosphorylation,M1,1,0
+1,-2.7,GO:0050821,protein stabilization,M1,1,0
+1,-2.5,GO:0098937,anterograde dendritic transport,M1,1,0
+1,-4.8,GO:0007611,learning or memory,M1,1,0
+1,-3.2,GO:0048015,phosphatidylinositol-mediated signaling,M1,1,0
+1,-2.2,GO:0006281,DNA repair,M1,1,0
+1,-2.7,GO:0061734,type 2 mitophagy,M1,1,0
+1,-2.5,R-MMU-195258,RHO GTPase Effectors,M1,1,0
+1,-2.6,GO:1901880,negative regulation of protein depolymerization,M1,1,0
+1,-4.1,R-MMU-6807878,COPI-mediated anterograde transport,M1,1,0
+1,-7.5,R-MMU-1632852,Macroautophagy,M1,1,0
+1,-5.7,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-3.8,mmu04814,Motor proteins - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0031111,negative regulation of microtubule polymerization or depolymerization,M1,1,0
+1,-3.5,GO:0000422,autophagy of mitochondrion,M1,1,0
+1,-2.5,GO:0042752,regulation of circadian rhythm,M1,1,0
+1,-2.9,mmu04340,Hedgehog signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:1990138,neuron projection extension,M1,1,0
+1,-2.8,GO:0050767,regulation of neurogenesis,M1,1,0
+1,-2.8,GO:0051345,positive regulation of hydrolase activity,M1,1,0
+1,-2.5,GO:0046854,phosphatidylinositol phosphate biosynthetic process,M1,1,0
+1,-2.9,R-MMU-453274,Mitotic G2-G2/M phases,M1,1,0
+1,-3.7,GO:0010496,intercellular transport,M1,1,0
+1,-2.1,GO:0070536,protein K63-linked deubiquitination,M1,1,0
+1,-3.9,GO:0099173,postsynapse organization,M1,1,0
+1,-2.5,GO:0006515,protein quality control for misfolded or incompletely synthesized proteins,M1,1,0
+1,-2.7,GO:0019068,virion assembly,M1,1,0
+1,-5.9,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.1,R-MMU-5684996,MAPK1/MAPK3 signaling,M1,1,0
+1,-2.2,GO:0045786,negative regulation of cell cycle,M1,1,0
+1,-3.4,GO:0010976,positive regulation of neuron projection development,M1,1,0
+1,-2.7,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,M1,1,0
+1,-2.1,GO:0002931,response to ischemia,M1,1,0
+1,-2.7,GO:0043242,negative regulation of protein-containing complex disassembly,M1,1,0
+1,-7.2,GO:1901888,regulation of cell junction assembly,M1,1,0
+1,-2.6,GO:0150117,positive regulation of cell-substrate junction organization,M1,1,0
+1,-3.2,GO:0050885,neuromuscular process controlling balance,M1,1,0
+1,-2.1,GO:0006362,transcription elongation by RNA polymerase I,M1,1,0
+1,-2.2,GO:0048589,developmental growth,M1,1,0
+1,-4.1,GO:0060998,regulation of dendritic spine development,M1,1,0
+1,-3.6,GO:0010638,positive regulation of organelle organization,M1,1,0
+1,-4.4,GO:0060341,regulation of cellular localization,M1,1,0
+1,-2.9,GO:0032007,negative regulation of TOR signaling,M1,1,0
+1,-2.1,WP2141,Serotonin and anxiety,M1,1,0
+1,-6.2,R-MMU-9646399,Aggrephagy,M1,1,0
+1,-2,GO:1904951,positive regulation of establishment of protein localization,M1,1,0
+1,-2,GO:0007026,negative regulation of microtubule depolymerization,M1,1,0
+1,-2.1,R-MMU-8866654,E3 ubiquitin ligases ubiquitinate target proteins,M1,1,0
+1,-5.9,GO:0099175,regulation of postsynapse organization,M1,1,0
+1,-4.2,R-MMU-5358351,Signaling by Hedgehog,M1,1,0
+1,-5.6,GO:1901890,positive regulation of cell junction assembly,M1,1,0
+1,-3,GO:0043038,amino acid activation,M1,1,0
+1,-2.1,R-MMU-181429,Serotonin Neurotransmitter Release Cycle,M1,1,0
+1,-6.5,GO:0061919,process utilizing autophagic mechanism,M1,1,0
+1,-2.9,GO:0009649,entrainment of circadian clock,M1,1,0
+1,-3.3,GO:0016073,snRNA metabolic process,M1,1,0
+1,-3,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-2.6,GO:0006650,glycerophospholipid metabolic process,M1,1,0
+1,-3.1,GO:0043039,tRNA aminoacylation,M1,1,0
+1,-4,GO:1904262,negative regulation of TORC1 signaling,M1,1,0
+1,-4.4,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),M1,1,0
+1,-3.1,GO:0001932,regulation of protein phosphorylation,M1,1,0
+1,-5.9,GO:0120039,plasma membrane bounded cell projection morphogenesis,M1,1,0
+1,-2.3,GO:0043153,entrainment of circadian clock by photoperiod,M1,1,0
+1,-3.9,GO:0048814,regulation of dendrite morphogenesis,M1,1,0
+1,-2.3,CORUM:3029,Drosha complex,M1,1,0
+1,-2.5,GO:0048675,axon extension,M1,1,0
+1,-2.3,GO:0032506,cytokinetic process,M1,1,0
+1,-2.4,GO:0006446,regulation of translational initiation,M1,1,0
+1,-2.2,GO:0140058,neuron projection arborization,M1,1,0
+1,-4.7,GO:0060999,positive regulation of dendritic spine development,M1,1,0
+1,-3.5,mmu05132,Salmonella infection - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0048854,brain morphogenesis,M1,1,0
+1,-2.6,GO:1902902,negative regulation of autophagosome assembly,M1,1,0
+1,-2.8,GO:1905244,regulation of modification of synaptic structure,M1,1,0
+1,-2.1,GO:0032456,endocytic recycling,M1,1,0
+1,-4.6,GO:0031647,regulation of protein stability,M1,1,0
+1,-2.5,R-MMU-9837999,Mitochondrial protein degradation,M1,1,0
+1,-3.3,R-MMU-190861,Gap junction assembly,M1,1,0
+1,-3.8,R-MMU-373760,L1CAM interactions,M1,1,0
+1,-4.4,GO:0098935,dendritic transport,M1,1,0
+1,-3,R-MMU-69275,G2/M Transition,M1,1,0
+1,-5.3,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.8,GO:0051276,chromosome organization,M1,1,0
+1,-3.5,GO:0010508,positive regulation of autophagy,M1,1,0
+1,-2.5,GO:0048013,ephrin receptor signaling pathway,M1,1,0
+1,-7.5,R-MMU-9663891,Selective autophagy,M1,1,0
+1,-4.9,GO:0016241,regulation of macroautophagy,M1,1,0
+1,-3.7,R-MMU-8980692,RHOA GTPase cycle,M1,1,0
+1,-4.9,GO:0051963,regulation of synapse assembly,M1,1,0
+1,-9.9,GO:0007420,brain development,M1,1,0
+1,-4.4,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-2.7,GO:0061888,regulation of astrocyte activation,M1,1,0
+1,-2.1,GO:0030865,cortical cytoskeleton organization,M1,1,0
+1,-2.1,GO:0006450,regulation of translational fidelity,M1,1,0
+1,-3.1,GO:0035023,regulation of Rho protein signal transduction,M1,1,0
+1,-2.1,mmu04014,Ras signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.9,R-MMU-9648025,EML4 and NUDC in mitotic spindle formation,M1,1,0
+1,-3.6,GO:0051965,positive regulation of synapse assembly,M1,1,0
+1,-2.6,GO:0008306,associative learning,M1,1,0
+1,-5.7,GO:0048812,neuron projection morphogenesis,M1,1,0
+1,-3.5,GO:0006399,tRNA metabolic process,M1,1,0
+1,-2.1,GO:0031113,regulation of microtubule polymerization,M1,1,0
+1,-3.4,GO:1902648,"positive regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process",M1,1,0
+1,-4.3,R-MMU-380287,Centrosome maturation,M1,1,0
+1,-5.9,GO:0000226,microtubule cytoskeleton organization,M1,1,0
+1,-2.5,GO:0043549,regulation of kinase activity,M1,1,0
+1,-2.1,GO:0048167,regulation of synaptic plasticity,M1,1,0
+1,-3,GO:0061564,axon development,M1,1,0
+1,-4.1,GO:0008333,endosome to lysosome transport,M1,1,0
+1,-4.9,GO:0009896,positive regulation of catabolic process,M1,1,0
+1,-2.2,GO:0044837,actomyosin contractile ring organization,M1,1,0
+1,-3.3,GO:0021537,telencephalon development,M1,1,0
+1,-7.1,R-MMU-199991,Membrane Trafficking,M1,1,0
+1,-2.6,GO:1903047,mitotic cell cycle process,M1,1,0
+1,-2.5,GO:0018209,peptidyl-serine modification,M1,1,0
+1,-4,R-MMU-5610787,Hedgehog 'off' state,M1,1,0
+1,-2.3,GO:0010256,endomembrane system organization,M1,1,0
+1,-2.4,GO:0060560,developmental growth involved in morphogenesis,M1,1,0
+1,-5,GO:0099177,regulation of trans-synaptic signaling,M1,1,0
+1,-3.7,GO:1901879,regulation of protein depolymerization,M1,1,0
+1,-2.2,R-MMU-5357905,Regulation of TNFR1 signaling,M1,1,0
+1,-2.1,GO:0034331,cell junction maintenance,M1,1,0
+1,-2.5,R-MMU-1482883,Acyl chain remodeling of DAG and TAG,M1,1,0
+1,-3.6,R-MMU-5626467,RHO GTPases activate IQGAPs,M1,1,0
+1,-3.9,GO:0031346,positive regulation of cell projection organization,M1,1,0
+1,-2.5,GO:0060996,dendritic spine development,M1,1,0
+1,-9,GO:0050807,regulation of synapse organization,M1,1,0
+1,-2.7,GO:0032886,regulation of microtubule-based process,M1,1,0
+1,-2.1,GO:0046580,negative regulation of Ras protein signal transduction,M1,1,0
+1,-6.2,GO:1902115,regulation of organelle assembly,M1,1,0
+1,-2.4,GO:0022037,metencephalon development,M1,1,0
+1,-2.6,GO:0010498,proteasomal protein catabolic process,M1,1,0
+1,-2.6,GO:0071073,positive regulation of phospholipid biosynthetic process,M1,1,0
+1,-2.1,GO:0019646,aerobic electron transport chain,M1,1,0
+1,-2.7,R-MMU-8876198,RAB GEFs exchange GTP for GDP on RABs,M1,1,0
+1,-3.1,R-MMU-73854,RNA Polymerase I Promoter Clearance,M1,1,0
+1,-2.1,mmu04144,Endocytosis - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0007030,Golgi organization,M1,1,0
+1,-2,GO:0007264,small GTPase-mediated signal transduction,M1,1,0
+1,-3.6,GO:0043087,regulation of GTPase activity,M1,1,0
+1,-2.9,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3,GO:0030902,hindbrain development,M1,1,0
+1,-4.6,GO:0010506,regulation of autophagy,M1,1,0
+1,-5.3,GO:0051960,regulation of nervous system development,M1,1,0
+1,-2.4,GO:0032012,regulation of ARF protein signal transduction,M1,1,0
+1,-3.3,GO:0007411,axon guidance,M1,1,0
+1,-2.1,GO:0032926,negative regulation of activin receptor signaling pathway,M1,1,0
+1,-5.8,R-MMU-5620920,Cargo trafficking to the periciliary membrane,M1,1,0
+1,-2.3,GO:0043254,regulation of protein-containing complex assembly,M1,1,0
+1,-2.1,GO:0021987,cerebral cortex development,M1,1,0
+1,-3.7,mmu05012,Parkinson disease - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0048588,developmental cell growth,M1,1,0
+1,-5.4,R-MMU-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,M1,1,0
+1,-2.8,GO:0090109,regulation of cell-substrate junction assembly,M1,1,0
+1,-2.8,GO:0051640,organelle localization,M1,1,0
+1,-5.6,GO:0016310,phosphorylation,M1,1,0
+1,-2.6,GO:0022900,electron transport chain,M1,1,0
+1,-3.9,GO:1902774,late endosome to lysosome transport,M1,1,0
+1,-2.7,GO:0045880,positive regulation of smoothened signaling pathway,M1,1,0
+1,-2.1,R-MMU-9833482,PKR-mediated signaling,M1,1,0
+1,-3.9,GO:0007409,axonogenesis,M1,1,0
+1,-2,GO:0044782,cilium organization,M1,1,0
+1,-2.1,GO:0051101,regulation of DNA binding,M1,1,0
+1,-2.9,GO:0051493,regulation of cytoskeleton organization,M1,1,0
+1,-4.6,GO:0007612,learning,M1,1,0
+1,-2.3,R-MMU-5576891,Cardiac conduction,M1,1,0
+1,-3.7,GO:1902903,regulation of supramolecular fiber organization,M1,1,0
+1,-6,GO:0000278,mitotic cell cycle,M1,1,0
+1,-2.5,GO:1905563,negative regulation of vascular endothelial cell proliferation,M1,1,0
+1,-3.3,GO:2000785,regulation of autophagosome assembly,M1,1,0
+1,-6.2,R-MMU-380320,Recruitment of NuMA to mitotic centrosomes,M1,1,0
+1,-3.5,GO:0031110,regulation of microtubule polymerization or depolymerization,M1,1,0
+1,-2.8,GO:0007169,cell surface receptor protein tyrosine kinase signaling pathway,M1,1,0
+1,-2.1,R-MMU-68886,M Phase,M1,1,0
+1,-5.5,R-MMU-9012999,RHO GTPase cycle,M1,1,0
+1,-3.8,GO:0008088,axo-dendritic transport,M1,1,0
+1,-2.2,GO:0021695,cerebellar cortex development,M1,1,0
+1,-3.4,GO:1902117,positive regulation of organelle assembly,M1,1,0
+1,-2.7,GO:0060677,ureteric bud elongation,M1,1,0
+1,-2.7,R-MMU-9007101,Rab regulation of trafficking,M1,1,0
+1,-3,GO:0007033,vacuole organization,M1,1,0
+1,-2.4,GO:0099159,regulation of modification of postsynaptic structure,M1,1,0
+1,-3.9,GO:0031929,TOR signaling,M1,1,0
+1,-4.9,GO:0050808,synapse organization,M1,1,0
+1,-3.9,GO:0051494,negative regulation of cytoskeleton organization,M1,1,0
+1,-3.5,R-MMU-9013106,RHOC GTPase cycle,M1,1,0
+1,-2.6,GO:0106074,aminoacyl-tRNA metabolism involved in translational fidelity,M1,1,0
+1,-8.7,GO:0050803,regulation of synapse structure or activity,M1,1,0
+1,-4.4,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,M1,1,0
+1,-5,GO:0050804,modulation of chemical synaptic transmission,M1,1,0
+1,-3.3,GO:0006265,DNA topological change,M1,1,0
+1,-3.6,GO:0099111,microtubule-based transport,M1,1,0
+1,-2,mmu00562,Inositol phosphate metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0097352,autophagosome maturation,M1,1,0
+1,-2,GO:2000392,regulation of lamellipodium morphogenesis,M1,1,0
+1,-3.4,GO:1902646,"regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process",M1,1,0
+1,-3.5,GO:0050775,positive regulation of dendrite morphogenesis,M1,1,0
+1,-3.8,GO:0032483,regulation of Rab protein signal transduction,M1,1,0
+1,-7,GO:0051056,regulation of small GTPase mediated signal transduction,M1,1,0
+1,-2.3,GO:0018216,peptidyl-arginine methylation,M1,1,0
+1,-3.6,R-MMU-5620924,Intraflagellar transport,M1,1,0
+1,-2.3,GO:0022411,cellular component disassembly,M1,1,0
+1,-5,GO:0071103,DNA conformation change,M1,1,0
+1,-3.4,R-MMU-8854518,AURKA Activation by TPX2,M1,1,0
+1,-3,GO:0050905,neuromuscular process,M1,1,0
+1,-2.5,GO:0046883,regulation of hormone secretion,M1,1,0
+1,-3.8,GO:0016358,dendrite development,M1,1,0
+1,-5.3,GO:0006468,protein phosphorylation,M1,1,0
+1,-2.8,GO:0021587,cerebellum morphogenesis,M1,1,0
+1,-2.8,GO:0051893,regulation of focal adhesion assembly,M1,1,0
+1,-3.4,R-MMU-2500257,Resolution of Sister Chromatid Cohesion,M1,1,0
+1,-2.4,GO:0051338,regulation of transferase activity,M1,1,0
+1,-2.6,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-4.3,GO:0007041,lysosomal transport,M1,1,0
+1,-2.2,mmu04120,Ubiquitin mediated proteolysis - Mus musculus (house mouse),M1,1,0
+1,-5.2,R-MMU-6811442,Intra-Golgi and retrograde Golgi-to-ER traffic,M1,1,0
+1,-2.4,GO:0032042,mitochondrial DNA metabolic process,M1,1,0
+1,-2.8,GO:0141124,intracellular signaling cassette,M1,1,0
+1,-7.4,R-MMU-194315,Signaling by Rho GTPases,M1,1,0
+1,-7.2,GO:0046777,protein autophosphorylation,M1,1,0
+1,-2.2,GO:0140673,transcription elongation-coupled chromatin remodeling,M1,1,0
+1,-2.3,GO:0038202,TORC1 signaling,M1,1,0
+1,-3.9,R-MMU-983231,Factors involved in megakaryocyte development and platelet production,M1,1,0
+1,-3.9,R-MMU-948021,Transport to the Golgi and subsequent modification,M1,1,0
+1,-2.8,GO:0043405,regulation of MAP kinase activity,M1,1,0
+1,-3.9,R-MMU-199977,ER to Golgi Anterograde Transport,M1,1,0
+1,-2.2,GO:0060606,tube closure,M1,1,0
+1,-3.7,GO:0048813,dendrite morphogenesis,M1,1,0
+1,-3.8,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),M1,1,0
+1,-3,GO:0050769,positive regulation of neurogenesis,M1,1,0
+1,-4.1,GO:0016197,endosomal transport,M1,1,0
+1,-2.1,GO:0000423,mitophagy,M1,1,0
+1,-2.3,GO:0021915,neural tube development,M1,1,0
+1,-5.7,R-MMU-422475,Axon guidance,M1,1,0
+1,-2.9,R-MMU-9013026,RHOB GTPase cycle,M1,1,0
+1,-2.2,GO:0007346,regulation of mitotic cell cycle,M1,1,0
+1,-2.1,GO:0031102,neuron projection regeneration,M1,1,0
+1,-6.1,GO:0030900,forebrain development,M1,1,0
+1,-2.6,GO:0000380,"alternative mRNA splicing, via spliceosome",M1,1,0
+1,-3.5,GO:0016239,positive regulation of macroautophagy,M1,1,0
+1,-3.5,GO:1900272,negative regulation of long-term synaptic potentiation,M1,1,0
+1,-7.4,GO:0016236,macroautophagy,M1,1,0
+1,-2.2,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-2.2,GO:0030242,autophagy of peroxisome,M1,1,0
+1,-3.2,mmu04148,Efferocytosis - Mus musculus (house mouse),M1,1,0
+1,-5.4,GO:0048168,regulation of neuronal synaptic plasticity,M1,1,0
+1,-5.3,GO:0031122,cytoplasmic microtubule organization,M1,1,0
+1,-2.1,GO:0150052,regulation of postsynapse assembly,M1,1,0
+1,-2.2,GO:0008361,regulation of cell size,M1,1,0
+1,-2.2,GO:0007198,adenylate cyclase-inhibiting serotonin receptor signaling pathway,M1,1,0
+1,-3,R-MMU-446203,Asparagine N-linked glycosylation,M1,1,0
+1,-4.7,R-MMU-8955332,Carboxyterminal post-translational modifications of tubulin,M1,1,0
+1,-2.2,R-MMU-1059683,Interleukin-6 signaling,M1,1,0
+1,-2.3,GO:0072698,protein localization to microtubule cytoskeleton,M1,1,0
+1,-2.2,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-3.2,GO:0007059,chromosome segregation,M1,1,0
+1,-2.4,GO:0042594,response to starvation,M1,1,0
+1,-6.1,GO:0048858,cell projection morphogenesis,M1,1,0
+1,-2.3,R-MMU-76071,RNA Polymerase III Transcription Initiation From Type 3 Promoter,M1,1,0
+1,-2.4,GO:0007051,spindle organization,M1,1,0
+1,-2.3,GO:0032984,protein-containing complex disassembly,M1,1,0
+1,-3,GO:0061003,positive regulation of dendritic spine morphogenesis,M1,1,0
+1,-2.5,GO:0150116,regulation of cell-substrate junction organization,M1,1,0
+1,-3.8,GO:0090630,activation of GTPase activity,M1,1,0
+1,-2.3,GO:2001135,regulation of endocytic recycling,M1,1,0
+1,-2.4,GO:0072006,nephron development,M1,1,0
+1,-2.9,GO:0032386,regulation of intracellular transport,M1,1,0
+1,-2.9,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,M1,1,0
+1,-2.9,GO:0007018,microtubule-based movement,M1,1,0
+1,-2.1,GO:0007528,neuromuscular junction development,M1,1,0
+1,-6,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.5,GO:0097576,vacuole fusion,M1,1,0
+1,-2.2,GO:0070646,protein modification by small protein removal,M1,1,0
+1,-2.8,GO:0030901,midbrain development,M1,1,0
+1,-3.7,R-MMU-6811436,COPI-independent Golgi-to-ER retrograde traffic,M1,1,0
+1,-2.3,GO:0044819,mitotic G1/S transition checkpoint signaling,M1,1,0
+1,-3,GO:0070201,regulation of establishment of protein localization,M1,1,0
+1,-4.1,GO:0043244,regulation of protein-containing complex disassembly,M1,1,0
+1,-4.9,GO:0006338,chromatin remodeling,M1,1,0
+1,-2.1,R-MMU-73772,RNA Polymerase I Promoter Escape,M1,1,0
+1,-3.1,GO:0009267,cellular response to starvation,M1,1,0
+1,-5.2,GO:0050890,cognition,M1,1,0
+1,-3,GO:0031114,regulation of microtubule depolymerization,M1,1,0
+1,-3.5,GO:0010507,negative regulation of autophagy,M1,1,0
+1,-2.5,GO:0022898,regulation of transmembrane transporter activity,M1,1,0
+1,-4.5,R-MMU-5663220,RHO GTPases Activate Formins,M1,1,0
+1,-2.2,GO:0040007,growth,M1,1,0
+1,-5.5,GO:0048667,cell morphogenesis involved in neuron differentiation,M1,1,0
+1,-5.8,R-MMU-9975921,Assembly of the 9+0 primary cilium,M1,1,0
+1,-2.2,GO:0034329,cell junction assembly,M1,1,0
+1,-2.8,GO:0060123,regulation of growth hormone secretion,M1,1,0
+1,-2.2,GO:0007406,negative regulation of neuroblast proliferation,M1,1,0
+1,-3.2,GO:0051058,negative regulation of small GTPase mediated signal transduction,M1,1,0
+1,-2.6,GO:0006418,tRNA aminoacylation for protein translation,M1,1,0
+1,-2.1,GO:1903861,positive regulation of dendrite extension,M1,1,0
+1,-2.2,GO:0032271,regulation of protein polymerization,M1,1,0
+1,-2.3,GO:0018195,peptidyl-arginine modification,M1,1,0
+1,-2.6,R-MMU-4839726,Chromatin organization,M1,1,0
+1,-3.3,mmu04722,Neurotrophin signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0010810,regulation of cell-substrate adhesion,M1,1,0
+1,-2.1,GO:0014020,primary neural tube formation,M1,1,0
+1,-2.6,R-MMU-2467813,Separation of Sister Chromatids,M1,1,0
+1,-2.4,GO:0046888,negative regulation of hormone secretion,M1,1,0
+1,-6.1,GO:0016242,negative regulation of macroautophagy,M1,1,0
+1,-3.4,GO:0070507,regulation of microtubule cytoskeleton organization,M1,1,0
+1,-2.1,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-2.4,GO:0016049,cell growth,M1,1,0
+1,-2.3,GO:0048284,organelle fusion,M1,1,0
+1,-2.6,GO:0021575,hindbrain morphogenesis,M1,1,0
+1,-5,R-MMU-68877,Mitotic Prometaphase,M1,1,0
+1,-2.8,WP1263,Mitochondrial gene expression,M1,1,0
+1,-5.8,GO:0034330,cell junction organization,M1,1,0
+1,-5,GO:0044089,positive regulation of cellular component biogenesis,M1,1,0
+1,-3.8,GO:1902116,negative regulation of organelle assembly,M1,1,0
+1,-3.1,GO:0042795,snRNA transcription by RNA polymerase II,M1,1,0
+1,-5.8,R-MMU-5617833,Cilium Assembly,M1,1,0
+1,-2.1,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.5,R-MMU-157858,Gap junction trafficking and regulation,M1,1,0
+1,-3.4,GO:0032388,positive regulation of intracellular transport,M1,1,0
+1,-3.1,R-MMU-73762,RNA Polymerase I Transcription Initiation,M1,1,0
+1,-2.1,GO:2000772,regulation of cellular senescence,M1,1,0
+1,-2.2,GO:0045947,negative regulation of translational initiation,M1,1,0
+1,-2.2,GO:0002842,positive regulation of T cell mediated immune response to tumor cell,M1,1,0
+1,-5.1,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-2.5,GO:0016579,protein deubiquitination,M1,1,0
+1,-6.3,R-MMU-983189,Kinesins,M1,1,0
+1,-2.2,GO:0032418,lysosome localization,M1,1,0
+1,-2.9,GO:0006383,transcription by RNA polymerase III,M1,1,0
+1,-4,mmu04140,Autophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0032006,regulation of TOR signaling,M1,1,0
+1,-2.2,GO:0000912,assembly of actomyosin apparatus involved in cytokinesis,M1,1,0
+1,-2.7,GO:0051223,regulation of protein transport,M1,1,0
+1,-2.7,mmu04540,Gap junction - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4.1,GO:0048170,positive regulation of long-term neuronal synaptic plasticity,M1,1,0
+1,-5.4,GO:0061909,autophagosome-lysosome fusion,M1,1,0
+1,-5.3,GO:0007034,vacuolar transport,M1,1,0
+1,-6.5,GO:0006914,autophagy,M1,1,0
+1,-2.9,R-MMU-5688426,Deubiquitination,M1,1,0
+1,-3.2,GO:0042325,regulation of phosphorylation,M1,1,0
+1,-3.3,GO:0097485,neuron projection guidance,M1,1,0
+1,-2.1,GO:0032008,positive regulation of TOR signaling,M1,1,0
+1,-2.2,GO:0033673,negative regulation of kinase activity,M1,1,0
+1,-2.9,GO:0007613,memory,M1,1,0
+1,-2.9,GO:0099601,regulation of neurotransmitter receptor activity,M1,1,0
+1,-2.4,GO:0045859,regulation of protein kinase activity,M1,1,0
+1,-3.5,GO:0001701,in utero embryonic development,M1,1,0
+1,-3.6,GO:0043547,positive regulation of GTPase activity,M1,1,0
+1,-2.7,R-MMU-2565942,Regulation of PLK1 Activity at G2/M Transition,M1,1,0
+1,-2.5,mmu04066,HIF-1 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.1,GO:0051894,positive regulation of focal adhesion assembly,M1,1,0
+1,-2.6,GO:0000209,protein polyubiquitination,M1,1,0
+1,-3,GO:0044380,protein localization to cytoskeleton,M1,1,0
+1,-2.1,GO:0048853,forebrain morphogenesis,M1,1,0
+1,-2.9,GO:0106027,neuron projection organization,M1,1,0
+1,-4.7,GO:0009301,snRNA transcription,M1,1,0
+1,-2.3,GO:0010469,regulation of signaling receptor activity,M1,1,0
+1,-3.6,R-MMU-380284,Loss of proteins required for interphase microtubule organization from the centrosome,M1,1,0
+1,-2.4,GO:0044088,regulation of vacuole organization,M1,1,0
+1,-3,R-MMU-1483226,Synthesis of PI,M1,1,0
+1,-2.4,GO:0048668,collateral sprouting,M1,1,0
+1,-2.5,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-4.3,GO:0010639,negative regulation of organelle organization,M1,1,0
+1,-3.3,WP65,Insulin signaling,M1,1,0
+1,-3.3,GO:0007015,actin filament organization,M1,1,0
+1,-2.6,GO:0060997,dendritic spine morphogenesis,M1,1,0
+1,-3,R-MMU-73864,RNA Polymerase I Transcription,M1,1,0
+1,-2.9,GO:0031345,negative regulation of cell projection organization,M1,1,0
+1,-4.6,GO:0042796,snRNA transcription by RNA polymerase III,M1,1,0
+1,-2.5,R-MMU-2995410,Nuclear Envelope (NE) Reassembly,M1,1,0
+1,-3.4,GO:0048169,regulation of long-term neuronal synaptic plasticity,M1,1,0
+1,-4.6,GO:0097435,supramolecular fiber organization,M1,1,0
+1,-4.3,R-MMU-380270,Recruitment of mitotic centrosome proteins and complexes,M1,1,0
+1,-2,GO:0021543,pallium development,M1,1,0
+1,-2.4,GO:0006644,phospholipid metabolic process,M1,1,0
+1,-2.8,R-MMU-5620912,Anchoring of the basal body to the plasma membrane,M1,1,0
+1,-2.2,GO:0046486,glycerolipid metabolic process,M1,1,0
+1,-5.5,GO:0061024,membrane organization,M1,1,0
+1,-5.9,GO:0006796,phosphate-containing compound metabolic process,M1,1,0
+1,-2.5,R-MMU-6794362,Protein-protein interactions at synapses,M1,1,0

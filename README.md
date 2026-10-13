@@ -89,13 +89,73 @@ Gerekli paketler script içinde otomatik kurulur. Script çalışma dizinine hem
 - Bioconductor: `GEOquery`, `DESeq2`, `org.Mm.eg.db`
 - CRAN: `ggplot2`
 
+## Sonraki Analizler
+
+DEG listeleri; protein etkileşim ağı, hub gen, zenginleştirme (enrichment) ve miRNA analizleriyle yorumlandı. Çalışmada CJD, FFI ve iki hastalığın ortak (`ortak`) gen kümeleri ile CJD vs FFI (`vs`) karşılaştırması kullanıldı.
+
+### STRING – Protein Etkileşim Ağları (`string/`)
+
+DEG listelerinden STRING ile etkileşim ağları oluşturuldu.
+
+| Dosya | Açıklama |
+|---|---|
+| `string_interactions_cjd.tsv` | CJD ağı (372 etkileşim) |
+| `string_interactions_ffi.tsv` | FFI ağı (1458 etkileşim) |
+| `string_interactions_vs.tsv` | CJD vs FFI ağı (760 etkileşim) |
+| `cjd_vs_control_0.7_50.svg`, `cjd_vs_ffi_0.7_50.svg`, `ffi_vs_control_0.9_50.svg` | Ağ görselleri (dosya adlarındaki parametreler: 0.7 / 0.9 skor eşiği, 50) |
+
+### Cytoscape – Hub Genler (`cytoscape/`)
+
+STRING ağları Cytoscape'e aktarılarak **Degree** yöntemiyle ilk 20 hub gen belirlendi.
+
+| Karşılaştırma | En yüksek skorlu hub genler |
+|---|---|
+| CJD | Mapk3, Mapk1 (24); Mapk8, Mapk9, Mapk10, Mapk14, Foxo1 (22) |
+| FFI | Rps11, Pik3r1/2/3 (40); Ndufs2, Ndufv1, Ndufs8, Pik3cb (38) |
+| CJD vs FFI | Glmn (36); Tdpoz3/4, Spopfm2, Spopl (32); Klhl/Kbtbd ailesi (28) |
+
+Dosyalar: `*_top20_hub_genes.csv` (tablolar), `*_top20.png` (ağ görselleri), `hub_genes_genel_tablo.png` (genel özet).
+
+### Enrichment Analizleri (`enrichment/`)
+
+Her gen kümesi için **g:Profiler** (GO BP/CC/MF) ve **Metascape** ile zenginleştirme yapıldı.
+
+```
+enrichment/
+├── cjd-gprofiler/   cjd-metascape/
+├── ffi-gprofiler/   ffi-metascape/
+├── ortak-gprofiler/ ortak-metascape/
+├── vs-gprofiler/    vs-metascape/
+└── yorum/           # Enrichment yorumları (PDF), özet tablolar (XLSX) ve sunum
+```
+
+- g:Profiler: GO grafikleri (PNG/SVG) ve `intersections.csv` tabloları
+- Metascape: `metascape_result.xlsx`, GO/MCODE tabloları, ısı haritaları
+- `yorum/`: sonuçların biyolojik yorumu, literatür uyumu, aday hedefler ve DisGeNET hastalık değerlendirmesi
+
+### miRNA Analizi (`miRNA/`)
+
+| Dosya | Açıklama |
+|---|---|
+| `miRNA.xlsx` | FFI, CJD ve VS için hedef miRNA'lar ve degree değerleri |
+| `benim_miRNA_sonuclarim.png` | Bu çalışmadaki miRNA sonuçları |
+| `miRNA_toplu_karsilastirma.png` | Gruplar arası toplu miRNA karşılaştırması |
+
+### Özet Tablolar (`ozet/`)
+
+- `analiz_sonuclari.xlsx`: farklı eşiklerde (p-value, adj. p-value, Bonferroni) gen sayılarının karşılaştırması
+- `gen_dogrulama.xlsx`: gen doğrulama listesi
+
 ## Dosya Yapısı
 
 ```
 Prion_Disease/
-├── yeni raw data kod.R     # Ana analiz scripti
+├── yeni raw data kod.R     # Ana DESeq2 analiz scripti
 ├── README.md
-├── *.csv                   # DEG tabloları
-├── *.txt                   # Ortak / hastalığa özgü gen listeleri
-└── *.png                   # QC grafikleri
+├── *.csv / *.txt / *.png   # DEG tabloları, ortak/özgü gen listeleri, QC grafikleri
+├── string/                 # STRING ağları
+├── cytoscape/              # Hub genler
+├── enrichment/             # g:Profiler ve Metascape sonuçları + yorumlar
+├── miRNA/                  # miRNA sonuçları
+└── ozet/                   # Özet tablolar
 ```

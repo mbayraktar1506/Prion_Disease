@@ -1,0 +1,6 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,GO Biological Processes,19,GO:1990830,cellular response to leukemia inhibitory factor,19_GO:0050896 response to stimulus,-3.2,17,6.8,22259,297,13,3,23,12,13860|14366|22596,Eps8|Fzd4|Xrcc5,0
+MyList,GO Biological Processes,19,GO:1990823,response to leukemia inhibitory factor,19_GO:0050896 response to stimulus,-3.2,17,6.8,22259,299,13,3,23,12,13860|14366|22596,Eps8|Fzd4|Xrcc5,0
+MyList,Reactome Gene Sets,6,R-MMU-73894,DNA Repair,,-3.1,16,6.6,22259,313,13,3,23,12,13872|22596|319156,Ercc3|Xrcc5|H4c4,0
+MyList,KEGG Pathway,24,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),,-2.6,11,5.2,22259,481,13,3,23,12,13417|14366|627872,Dnah8|Fzd4|Dnah7a,0
+MyList,GO Biological Processes,19,GO:0008283,cell population proliferation,19_GO:0009987 cellular process,-2.2,7.6,4.2,22259,677,13,3,23,12,14366|22596|636931,Fzd4|Xrcc5|Trim71,0

@@ -1,0 +1,16 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-8.807768565089578,GO:0009987,cellular process,M1,1,GO:0034330 cell junction organization
+1,-7.220331043895562,GO:0050789,regulation of biological process,M1,1,GO:0050807 regulation of synapse organization
+1,-7.00611962378475,GO:0065007,biological regulation,M1,1,GO:0050803 regulation of synapse structure or activity
+1,-4.884744212611517,GO:0032501,multicellular organismal process,M1,1,GO:0050905 neuromuscular process
+1,-4.693578033810697,GO:0032502,developmental process,M1,1,GO:0051963 regulation of synapse assembly
+1,-4.30510049896013,GO:0051179,localization,M1,1,GO:0030705 cytoskeleton-dependent intracellular transport
+1,-4.20726493477154,GO:0048518,positive regulation of biological process,M1,1,GO:0044089 positive regulation of cellular component biogenesis
+1,-4.0836499163976185,GO:0050896,response to stimulus,M1,1,GO:0051056 regulation of small GTPase mediated signal transduction
+1,-3.845516299736693,GO:0048519,negative regulation of biological process,M1,1,GO:1902904 negative regulation of supramolecular fiber organization
+1,-3.4884988766595195,GO:0040007,growth,M1,1,GO:0048639 positive regulation of developmental growth
+1,-2.359093080699465,GO:0040011,locomotion,M1,1,GO:2001222 regulation of neuron migration
+1,-2.3342913924155084,GO:0002376,immune system process,M1,1,GO:0045672 positive regulation of osteoclast differentiation
+1,-2.295475805626166,GO:0048511,rhythmic process,M1,1,GO:0009649 entrainment of circadian clock
+1,-2.1100564749570467,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0034145 positive regulation of toll-like receptor 4 signaling pathway
+1,-2.031281173454729,GO:0043473,pigmentation,M1,1,GO:0043473 pigmentation

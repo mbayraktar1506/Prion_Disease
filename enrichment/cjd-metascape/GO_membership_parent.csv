@@ -1,0 +1,7 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-5.717492301942631,GO:0050896,response to stimulus,M1,1,GO:0032872 regulation of stress-activated MAPK cascade
+1,-5.0976415773599415,GO:0048519,negative regulation of biological process,M1,1,GO:0043409 negative regulation of MAPK cascade
+1,-4.77054758259154,GO:0051179,localization,M1,1,GO:0044062 regulation of excretion
+1,-4.411692678100538,GO:0009987,cellular process,M1,1,GO:0007156 homophilic cell-cell adhesion
+1,-3.513215776824681,GO:0048518,positive regulation of biological process,M1,1,GO:0032874 positive regulation of stress-activated MAPK cascade
+1,-2.6149082434565103,GO:0032501,multicellular organismal process,M1,1,GO:0032675 regulation of interleukin-6 production
