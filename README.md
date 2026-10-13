@@ -143,6 +143,19 @@ enrichment/
 
 ![FFI Metascape](enrichment/ffi-metascape/HeatmapSelectedGO.png)
 
+**Nörodejeneratif hastalık bağlantısı (FFI, DisGeNET):** FFI'de değişen genler frontotemporal demans, serebellar atrofi, serebral kortikal atrofi ve ensefalopati gibi nörodejeneratif/nörolojik hastalık terimleriyle zenginleşti. KEGG tarafında ise **Amyotrofik lateral skleroz (ALS)** yolağı anlamlı bulundu (-log10P ≈ 4.4).
+
+![FFI DisGeNET](enrichment/ffi-metascape/Screenshot_2026-07-10_222934.png)
+
+**Biyolojik saat (sirkadiyen ritim) genleri:** FFI'de *entrainment of circadian clock* (-log10P ≈ 2.9), *regulation of circadian rhythm*, *circadian regulation of gene expression* terimleri zenginleşti. Bu terimlerdeki saat genleri: **Cry2, Per1, Fbxl21, Csnk1d** (ayrıca Btrc, Rai1, Sfpq, Tardbp). CJD vs FFI karşılaştırmasında da *entrainment of circadian clock* terimi (Cry2, Fbxl21, Sox14, Crtc1) çıktı. Aşağıdaki FFI grafiğinde bu terim (*GO:0009649*) ve ALS yolağı (*mmu05014*) birlikte görülebilir.
+
+<details>
+<summary>FFI – ilk 100 zenginleşmiş terim (Metascape)</summary>
+
+<img src="enrichment/ffi-metascape/HeatmapSelectedGOTop100.png" width="600" alt="FFI Metascape Top100">
+
+</details>
+
 ### miRNA Analizi (`miRNA/`)
 
 | Dosya | Açıklama |
