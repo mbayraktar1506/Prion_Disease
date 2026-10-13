@@ -147,14 +147,9 @@ enrichment/
 
 ![FFI DisGeNET](enrichment/ffi-metascape/Screenshot_2026-07-10_222934.png)
 
-**Biyolojik saat (sirkadiyen ritim) genleri:** FFI'de *entrainment of circadian clock* (-log10P ≈ 2.9), *regulation of circadian rhythm*, *circadian regulation of gene expression* terimleri zenginleşti. Bu terimlerdeki saat genleri: **Cry2, Per1, Fbxl21, Csnk1d** (ayrıca Btrc, Rai1, Sfpq, Tardbp). CJD vs FFI karşılaştırmasında da *entrainment of circadian clock* terimi (Cry2, Fbxl21, Sox14, Crtc1) çıktı. Aşağıdaki FFI grafiğinde bu terim (*GO:0009649*) ve ALS yolağı (*mmu05014*) birlikte görülebilir.
+**Biyolojik saat (sirkadiyen ritim) genleri:** FFI'de *entrainment of circadian clock* (-log10P ≈ 2.9), *regulation of circadian rhythm*, *circadian regulation of gene expression* terimleri zenginleşti. Bu terimlerdeki saat genleri: **Cry2, Per1, Fbxl21, Csnk1d** (ayrıca Btrc, Rai1, Sfpq, Tardbp). CJD vs FFI karşılaştırmasında da *entrainment of circadian clock* terimi (Cry2, Fbxl21, Sox14, Crtc1) çıktı.
 
-<details>
-<summary>FFI – ilk 100 zenginleşmiş terim (Metascape)</summary>
-
-<img src="enrichment/ffi-metascape/HeatmapSelectedGOTop100.png" width="600" alt="FFI Metascape Top100">
-
-</details>
+Bu genler **STRING ağında da** karşımıza çıktı: FFI ağında **Per1, Per3, Cry2, Csnk1d ve Btrc** birbirine yüksek güvenle bağlı bir saat geni kümesi oluşturuyor (ör. Per1–Per3 0.999, Cry2–Per1 0.998, Cry2–Per3 0.996, Csnk1d–Per1 0.969, Btrc–Per1 0.936; kombine skor). CJD vs FFI ağında da Cry2, Csnk1d ve Fbxl21 yer alıyor (ör. Cry2–Csnk1d 0.868). Bu, enrichment sonucunu protein etkileşim düzeyinde de destekliyor. Ayrıntılar: `string/string_interactions_ffi.tsv`, `string/string_interactions_vs.tsv`.
 
 ### miRNA Analizi (`miRNA/`)
 
